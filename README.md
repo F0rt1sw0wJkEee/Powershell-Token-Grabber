@@ -157,5 +157,3 @@ Rule Author : Florian Roth
 - https://github.com/Chainski
 
 <p align="center"><a href=#top>Back to Top</a></p>
-
-
